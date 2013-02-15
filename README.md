@@ -10,7 +10,7 @@ A pre-packaged runnable version of the [hubot-irc](https://github.com/nandub/hub
 
 ## Setup
 
-- Clone this repo to your local machine: `git clone https://github.com/jgable/hubot-irc-runnable && cd hubot-irc-runnable`
+- Clone this repo or download the [latest tag](https://github.com/jgable/hubot-irc-runnable/tags).
 - Install dependencies: `npm install`
 - Change the settings in the `runbot.sh` file to match your situation
 - Run the Bot: `. runbot.sh`
