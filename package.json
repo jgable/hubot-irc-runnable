@@ -15,7 +15,7 @@
     "url": "https://github.com/github/hubot.git"
   },
   "dependencies": {
-    "hubot": "2.3.2",
+    "hubot": "~2.5.1",
     "hubot-scripts": ">= 2.1.0",
     "optparse": "1.0.3",
     "hubot-irc": "0.1.x"
